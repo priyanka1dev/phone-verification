@@ -1,0 +1,47 @@
+.mainApp{
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.toggler{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: hsl(183, 37%, 89%);
+    border-radius: 50px;    
+}
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: greenyellow;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px;
+    border-radius: 10px;
+  }
+  
+.phone{
+    text-align: center;
+    font-weight: 700;
+}
+
+.row{
+    padding: 8px;
+}
+
+.press{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: hsl(183, 37%, 89%);
+    border-radius: 50px;
+}
